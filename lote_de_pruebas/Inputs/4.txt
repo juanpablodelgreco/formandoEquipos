@@ -1,0 +1,9 @@
+4
+7
+abcd
+abbd
+daab
+cbbb
+daab
+cbbb
+daab
